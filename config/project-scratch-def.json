@@ -1,0 +1,14 @@
+{
+  "orgName": "sfdx-telegram",
+  "edition": "Developer",
+  "namespace": "sfdx2telgram",
+  "features": ["EnableSetPasswordInApi"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
